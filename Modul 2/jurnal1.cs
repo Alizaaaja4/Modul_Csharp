@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace modul_2_Csharp
 {
-    internal class Program
+    internal class jurnal1
     {
         static void Main(string[] args)
         {
